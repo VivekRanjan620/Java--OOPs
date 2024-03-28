@@ -9,7 +9,7 @@ class Employee {
 
     public static void main(String[] args) {
         Employee e1 = new Employee("Vivek", 101);
-        Employee e2 = new Employee("Adeshh", 102);
+        Employee e2 = new Employee("Adesh", 102);
         System.out.println("Employee 1 : "+ e1.name+ " "+ e1.emp_id);
         System.out.println("Employee 2 : "+ e2.name+ " "+ e2.emp_id);
 
